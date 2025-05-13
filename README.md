@@ -1,2 +1,2 @@
-# laravel-project
-laravel-project
+# laravel
+Сервис уведомлений через Telegram-бота
