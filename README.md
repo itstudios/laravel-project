@@ -128,4 +128,7 @@ curl -X POST "https://api.telegram.org/bot<ваш_токен>/setWebhook?url=htt
 ```
 
 
+Пример запроса:
 
+php artisan notify:tasks
+php artisan queue:work
